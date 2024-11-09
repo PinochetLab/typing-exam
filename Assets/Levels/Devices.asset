@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d2ca7e883db4279a8b9f432daf921d0, type: 3}
+  m_Name: Devices
+  m_EditorClassIdentifier: 
+  russianName: "\u0422\u0435\u0445\u043D\u0438\u043A\u0430"
+  sprites:
+  - {fileID: 21300000, guid: b63d703165624eb4eb9188c316128cd8, type: 3}
+  - {fileID: 21300000, guid: f90ade8ef79ce89409e4652883a39763, type: 3}
+  - {fileID: 21300000, guid: 61d4ceff79d29864ab68bba8755a11a5, type: 3}
+  - {fileID: 21300000, guid: 04c3c37f93318de48aaeede5e32eff6b, type: 3}
+  - {fileID: 21300000, guid: a008330af7716cb46a5bac872c416a46, type: 3}
+  - {fileID: 21300000, guid: d544c8cd28eb69f4ebdece0b6e63a189, type: 3}
+  - {fileID: 21300000, guid: 209e8cd75ce23134cab656e9319264c4, type: 3}
+  - {fileID: 21300000, guid: f9e51624fe940ca4c8d834d03b0a6db1, type: 3}

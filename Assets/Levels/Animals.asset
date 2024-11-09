@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d2ca7e883db4279a8b9f432daf921d0, type: 3}
+  m_Name: Animals
+  m_EditorClassIdentifier: 
+  russianName: "\u0416\u0438\u0432\u043E\u0442\u043D\u044B\u0435"
+  sprites:
+  - {fileID: 21300000, guid: 1dfc0bd3a4cd31a43a68d8ddc9593ad8, type: 3}
+  - {fileID: 21300000, guid: 192ffe847a2177549af54eb463f5b687, type: 3}
+  - {fileID: 21300000, guid: d2d2f20aa83e10345930c5b1f12d560f, type: 3}
+  - {fileID: 21300000, guid: a11ae1321c53b234b9e12199c0471843, type: 3}
+  - {fileID: 21300000, guid: 58ed117ebe6918b4cb5f7ec5c5f327b8, type: 3}
+  - {fileID: 21300000, guid: 93561ed7ddd1abf4cb9833f67053a57e, type: 3}
+  - {fileID: 21300000, guid: b828647f7fe3a3a41ab5562628257dca, type: 3}
+  - {fileID: 21300000, guid: 3e9997f57a082aa4b83048834d76370e, type: 3}
+  - {fileID: 21300000, guid: 319e9bd4c564b8b4090c2df076e856cf, type: 3}
+  - {fileID: 21300000, guid: a1f548abd8a15e94ca0335230021e6cb, type: 3}
+  - {fileID: 21300000, guid: 4d9bbe266fa3e454fbe1a5610a870501, type: 3}
+  - {fileID: 21300000, guid: f6da9c0732f2d7741a5793ca6a9e6892, type: 3}
+  - {fileID: 21300000, guid: d3efb96e7dff07642b4e8ecdcf2a4019, type: 3}
+  - {fileID: 21300000, guid: 06a41df3a58ec87488ed855d236e3e13, type: 3}
+  - {fileID: 21300000, guid: f26935793fa25a5419ce26da176fd473, type: 3}

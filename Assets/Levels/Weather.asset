@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d2ca7e883db4279a8b9f432daf921d0, type: 3}
+  m_Name: Weather
+  m_EditorClassIdentifier: 
+  russianName: "\u041F\u043E\u0433\u043E\u0434\u0430"
+  sprites:
+  - {fileID: 21300000, guid: 2a042ffcf864b6644b32f27f9657de05, type: 3}
+  - {fileID: 21300000, guid: 9e44c18b1ba3685428cc3af243917c77, type: 3}
+  - {fileID: 21300000, guid: 76c1dae26c02a73488565935d57403f7, type: 3}
+  - {fileID: 21300000, guid: b5db656d29892f14a8496928e13056d6, type: 3}
+  - {fileID: 21300000, guid: 97af2c38f7147c449b6db74698153cb4, type: 3}
+  - {fileID: 21300000, guid: 1bd7505b85ab70e44a6eb5618de50eed, type: 3}
+  - {fileID: 21300000, guid: e1758c17df94a334a8736d0d4a558c0b, type: 3}
